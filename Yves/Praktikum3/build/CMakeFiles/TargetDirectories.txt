@@ -1,0 +1,4 @@
+/home/yves/_Linux/Praktikum3/build/CMakeFiles/mylibrary.dir
+/home/yves/_Linux/Praktikum3/build/CMakeFiles/hello_world.dir
+/home/yves/_Linux/Praktikum3/build/CMakeFiles/edit_cache.dir
+/home/yves/_Linux/Praktikum3/build/CMakeFiles/rebuild_cache.dir
